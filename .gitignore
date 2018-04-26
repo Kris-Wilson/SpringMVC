@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# Log file #
+*.log
+
+# 解决maven产生的文件 #
+target/
+
+# IntelliJ project files #
+.idea
+*.iml
+out
+gen
